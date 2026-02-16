@@ -1,0 +1,6 @@
+[submodule "submodules/pico-rectangle"]
+	path = submodules/pico-rectangle
+	url = https://github.com/JulienBernard3383279/pico-rectangle
+[submodule "submodules/PhobGCC-SW"]
+	path = submodules/PhobGCC-SW
+	url = https://github.com/PhobGCC/PhobGCC-SW/
